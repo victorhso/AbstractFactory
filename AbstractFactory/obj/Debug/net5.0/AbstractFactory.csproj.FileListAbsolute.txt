@@ -1,0 +1,16 @@
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csprojAssemblyReference.cache
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+D:\C#\Padrões de Projeto\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
