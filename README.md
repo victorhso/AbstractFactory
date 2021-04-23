@@ -29,6 +29,10 @@ Use o padrão quado:
 	2. Ele torna fácil a troca de famílias de produtos.
 	3. Ela promove a harmonia entre produtos.
 	4. É difícil de suportar novos tipos de produtos.
+
+## Diagrama de Classe (Exemplo)
+![class-example-abstract-factory](https://user-images.githubusercontent.com/60578339/115931814-33ef4080-a462-11eb-9da1-fd776f329a7f.png)
+
   
   ## REFERÊNCIAS
   > GAMMA, E.; HELM, R.; JOHNSON, R.; BLISSIDES, J.; **Padrões de Projeto Soluções reutilizáveis de software orientado a objetos**, Porto Alegre, 2000.
