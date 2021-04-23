@@ -32,11 +32,9 @@ Use o padrão quado:
 
 ## Diagrama de Classe (Exemplo)
 **Abstract Factory Design Pattern UML Class Diagram Example**
-![class-example-abstract-factory](https://user-images.githubusercontent.com/60578339/115931814-33ef4080-a462-11eb-9da1-fd776f329a7f.png)
+![class-example-abstract-factory](https://user-images.githubusercontent.com/60578339/115931814-33ef4080-a462-11eb-9da1-fd776f329a7f.png)  
 Fonte: uml-diagrams  
-Disponível em: < https://www.uml-diagrams.org/design-pattern-abstract-factory-uml-class-diagram-example.html >  
-Acesso em: 23 abr. 2021.
-
+Disponível em: < https://www.uml-diagrams.org/design-pattern-abstract-factory-uml-class-diagram-example.html >
   
   ## REFERÊNCIAS
   > GAMMA, E.; HELM, R.; JOHNSON, R.; BLISSIDES, J.; **Padrões de Projeto Soluções reutilizáveis de software orientado a objetos**, Porto Alegre, 2000.
