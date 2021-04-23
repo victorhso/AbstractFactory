@@ -25,7 +25,7 @@ Use o padrão quado:
 	- Usa somente interfaces declaradas pelas classes Abstract Factory Product.
 
 ## Vantagens / Desvantagens
-	1. Ele isola as classes concretas
+	1. Ele isola as classes concretas.
 	2. Ele torna fácil a troca de famílias de produtos.
 	3. Ela promove a harmonia entre produtos.
 	4. É difícil de suportar novos tipos de produtos.
