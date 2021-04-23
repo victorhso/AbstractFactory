@@ -30,5 +30,5 @@ Use o padrão quado:
 	3. Ela promove a harmonia entre produtos.
 	4. É difícil de suportar novos tipos de produtos.
   
-  ## REFERENCIA
+  ## REFERÊNCIAS
   > GAMMA, E.; HELM, R.; JOHNSON, R.; BLISSIDES, J.; **Padrões de Projeto Soluções reutilizáveis de software orientado a objetos**, Porto Alegre, 2000.
