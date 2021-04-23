@@ -12,14 +12,16 @@ Use o padrão quado:
 - Você quer fornecer uma biblioteca de classes de produtos e quer revelar somente suas interfaces, não suas implementações.
 
 ## Participantes
-- Abstract Factory ()
+- Abstract Factory (DBfactory)
   - Declara uma interface para operações que criam objetos-produtos abstratos.
-- Concrete Factory ()
+- Concrete Factory (OracleFactory, SQLfactory)
 	- Implementa as operações que criam objetos-produto concretos.
-- Abstract Factory ()
+- Abstract Product (DBcommand, DBconnection)
 	- Declara uma interface para um tipo de objeto-produto.
 	- Implementa a interface de Abstract Product.
-- Client ()
+- Concrete Product (OracleCommand, OracleConnection , SQLcommand, SQLconnection)
+	- Define um objeto-produto a ser criado pelo correspondente fábrica concreta.
+- Client (Program)
 	- Usa somente interfaces declaradas pelas classes Abstract Factory Product.
 
 ## Vantagens / Desvantagens
