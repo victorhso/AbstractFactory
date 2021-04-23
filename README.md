@@ -31,7 +31,11 @@ Use o padrão quado:
 	4. É difícil de suportar novos tipos de produtos.
 
 ## Diagrama de Classe (Exemplo)
+**Abstract Factory Design Pattern UML Class Diagram Example**
 ![class-example-abstract-factory](https://user-images.githubusercontent.com/60578339/115931814-33ef4080-a462-11eb-9da1-fd776f329a7f.png)
+Fonte: uml-diagrams  
+Disponível em: < https://www.uml-diagrams.org/design-pattern-abstract-factory-uml-class-diagram-example.html >  
+Acesso em: 23 abr. 2021.
 
   
   ## REFERÊNCIAS
