@@ -4,7 +4,7 @@
 Segundo Erich Gamma, este padrão tem como objetivo fornecer para a criação de famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
 
 ## Aplicabilidade
-Use o padrão quado: 
+Use o padrão quando: 
 
 - Um sistema deve ser independente de como seus produtos são criados, compostos ou representados;
 - Um sistema deve ser configurado como um produto de uma família de múltiplos produtos;
